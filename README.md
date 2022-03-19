@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blackbeardsyed1
 - 👀 I’m interested in game programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python related projects.
+- 🌱 I mostly work in : python,java,c++,R.
+- 💞️ I’m looking to collaborate on Data Science and WEB Development projects.
 - 📫 How to reach me: My email: syed123khizar@gmail.com
 
 <!---
