@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackbeardsyed1
-- 👀 I’m interested in Machine Learning, NLP and Computer Vision.
+- 👀 I’m interested in Machine Learning, Web 3.
 - 🌱 I mostly work in : Rust , SQL ,Python
 - 💞️ I’m looking to collaborate on Data Science and WEB/App Development projects / Web 3.
 - 📫 How to reach me: My email: syed123khizar@gmail.com , My Twitter: @syed_AK472
